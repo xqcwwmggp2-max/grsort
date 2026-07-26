@@ -1,0 +1,11 @@
+D:\MYPROGS\sort_project\sort\obj\Debug\sort.csproj.AssemblyReference.cache
+D:\MYPROGS\sort_project\sort\obj\Debug\sort.Properties.Resources.resources
+D:\MYPROGS\sort_project\sort\obj\Debug\sort.csproj.GenerateResource.cache
+D:\MYPROGS\sort_project\sort\obj\Debug\sort.csproj.CoreCompileInputs.cache
+D:\MYPROGS\sort_project\sort\bin\Debug\GR Sort.exe.config
+D:\MYPROGS\sort_project\sort\bin\Debug\GR Sort.exe
+D:\MYPROGS\sort_project\sort\bin\Debug\GR Sort.pdb
+D:\MYPROGS\sort_project\sort\obj\Debug\GR Sort.exe
+D:\MYPROGS\sort_project\sort\obj\Debug\GR Sort.pdb
+D:\MYPROGS\sort_project\sort\obj\Debug\GR Sort.exe.config
+D:\MYPROGS\sort_project\sort\obj\Debug\sort.Form1.resources
